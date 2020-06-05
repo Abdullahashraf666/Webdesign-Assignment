@@ -1,0 +1,44 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    
+}
+.nav-link {
+    font-weight: bold;
+    padding: 5px;
+    margin: 5px;
+    color: wheat !important;
+    
+}
+nav {
+    background-color: black;
+}
+body {
+    background-color: wheat;
+}
+.card {
+    align-items: center !important;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Copyrights {
+    background-color: black;
+    color: wheat;
+    text-align: center;
+}
+.catlogo {
+    display: flex ;
+    margin-right: 5%;
+    
+}
+.catlogo1 {
+    width: 40px !important;
+    height: 40px !important;
+}
+.btn {
+    justify-items: center !important;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
